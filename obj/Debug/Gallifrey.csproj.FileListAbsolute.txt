@@ -1,0 +1,9 @@
+c:\users\almar\documents\visual studio 2015\Projects\Gallifrey\bin\Debug\Gallifrey.exe.config
+c:\users\almar\documents\visual studio 2015\Projects\Gallifrey\bin\Debug\Gallifrey.exe
+c:\users\almar\documents\visual studio 2015\Projects\Gallifrey\bin\Debug\Gallifrey.pdb
+c:\users\almar\documents\visual studio 2015\Projects\Gallifrey\obj\Debug\Gallifrey.csprojResolveAssemblyReference.cache
+c:\users\almar\documents\visual studio 2015\Projects\Gallifrey\obj\Debug\Gallifrey.Properties.Resources.resources
+c:\users\almar\documents\visual studio 2015\Projects\Gallifrey\obj\Debug\Gallifrey.csproj.GenerateResource.Cache
+c:\users\almar\documents\visual studio 2015\Projects\Gallifrey\obj\Debug\Gallifrey.exe
+c:\users\almar\documents\visual studio 2015\Projects\Gallifrey\obj\Debug\Gallifrey.pdb
+c:\users\almar\documents\visual studio 2015\Projects\Gallifrey\obj\Debug\Gallifrey.Form1.resources
